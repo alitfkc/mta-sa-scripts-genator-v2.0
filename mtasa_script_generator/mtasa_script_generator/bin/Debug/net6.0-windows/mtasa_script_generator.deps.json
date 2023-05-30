@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mtasa_script_generator/1.0.0": {
+        "runtime": {
+          "mtasa_script_generator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mtasa_script_generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

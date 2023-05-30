@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mtasa_script_generator", "mtasa_script_generator\mtasa_script_generator.csproj", "{31677322-06BE-4702-9F4C-F61DC4A7F909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31677322-06BE-4702-9F4C-F61DC4A7F909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31677322-06BE-4702-9F4C-F61DC4A7F909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31677322-06BE-4702-9F4C-F61DC4A7F909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31677322-06BE-4702-9F4C-F61DC4A7F909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EE1B8A0-68B2-42BA-9AE5-BBA6D09AEA38}
+	EndGlobalSection
+EndGlobal
